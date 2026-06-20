@@ -101,3 +101,8 @@ body {
 .red-timer {
   color: red;
 }
+@media (max-width: 300px) {
+  .optons {
+    grid-template-columns: 1fr;
+  }
+}
