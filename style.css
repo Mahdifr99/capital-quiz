@@ -103,6 +103,7 @@ body {
 }
 @media (max-width: 768px) {
   .optons {
-    grid-template-columns: 1fr;
+    display: block;
+    background-color: rgb(255, 64, 0);
   }
 }
